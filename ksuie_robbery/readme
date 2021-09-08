@@ -1,0 +1,10 @@
+QBUS Framework Script Repaired and Updated so it actually works.
+
+I offer no support, if you don't know how to code you need to learn in order to mod FiveM, do not ever pay anyone. They will 100% screw you and leave you with a broken script.
+That's how I obtained this one. It didn't work and it was the same as every other free robbery script out there.
+If you upload it and it doesn't work you need to make sure all the loot items exist in your shared.lua.
+If all the items are in shared.lua then you also need to verify you have qb-doorlocks configured to match with the doors in the script.
+You will probably also need to find and fix a thermite and a hacking script to get it to work, because those are pretty much all broken also.  
+Good Luck.
+
+You could always just check out our server and see how it works: https://sites.google.com/view/miscreantmafiarp
