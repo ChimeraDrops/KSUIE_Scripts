@@ -1,0 +1,8 @@
+/* This applies to all elements (bad practice) */
+
+/* This css centers at the middle of the screen */
+#PharmaCraftInfo {
+	float: right;  
+}
+
+
