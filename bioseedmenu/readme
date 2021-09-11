@@ -1,0 +1,3 @@
+KSUIE Original Base Script used to create all other crafting scripts.
+Craft higher tier seeds at the Labs that will yield better weed and higher crop volumes.
+Config.lua does nothing, I put all configs in the files cause I didn't really know what I was doing and that was easy.
